@@ -8,7 +8,7 @@ date: 2019-08-01
 location: "College Park, MD"
 ---
 
-Substituted 2 lecturesfor the undergraduate honors Aerospace Engineering class ENAE 283H: Introduction to Aerospace Systems.
+Taught 2 lectures for the undergraduate honors Aerospace Engineering class ENAE 283H: Introduction to Aerospace Systems.
 
 Lecture 1
 ======
