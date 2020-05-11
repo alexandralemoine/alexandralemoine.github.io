@@ -2,7 +2,7 @@
 title: "Instructor for First Year Student Experience"
 collection: teaching
 type: "Summer program"
-permalink: /teaching/2019-summer-teaching-1
+permalink: /teaching/2019-summer-teaching-2
 venue: "University of Maryland, Women in Engineering Program"
 date: 2019-07-01
 location: "College Park, MD"
