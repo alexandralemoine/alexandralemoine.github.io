@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "Substitute Lecturer: Introduction to Aerospace Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Maryland, Department of Aerospace Engineering"
+date: 2019-08-01
+location: "College Park, MD"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Substituted 2 lecturesfor the undergraduate honors Aerospace Engineering class ENAE 283H: Introduction to Aerospace Systems.
 
-Heading 1
+Lecture 1
 ======
+* Introduction of the fundamental physical quantites of a flowing gas
+* Introduction of the source of all aerodynamic forces
+* Discussion on the equation of state for a perfect gas
 
-Heading 2
+Lecture 2
 ======
-
-Heading 3
-======
+* Definition of standard atmosphere
+* Introduction of the hydrostatic equation
+* Concepts of pressure and temperature variations with respect to altitude 
