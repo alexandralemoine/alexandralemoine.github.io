@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Instructor for First Year Student Experience"
 collection: teaching
-type: "Workshop"
+type: "Summer program"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Maryland, Women in Engineering Program"
+date: 2018-07-01
+location: "College Park, MD"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Coordinated with the Women in Engineering program on incorporating a computer applications
+class into their First Year Student Experience summer workshop. Developed curriculum and instructed a 2 week introductory programming course using MATLAB for incoming freshman engineering students.
