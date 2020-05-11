@@ -57,6 +57,12 @@ rocket engines
   * Duties included: Researched the design and feasibility of incorporating solar concentrators in light-
 ing systems.
 
+Teaching Experience
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Computer Skills
 ======
 * Software
@@ -70,12 +76,6 @@ Computer Skills
   * C/C++
   * Fortran 90/95/2003
   * Python
-
-Teaching Experience
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Publications
 ======
