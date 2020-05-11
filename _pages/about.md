@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Invesitgating Sand Ingestion Effects in Gas Turbine Engines"
+title: "Investigating the effects of turbulence modulation in particle-laden gas turbine engines"
 excerpt: ""
 author_profile: true
 redirect_from: 
