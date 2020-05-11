@@ -20,4 +20,4 @@ Lecture 2
 ======
 * Definition of standard atmosphere
 * Introduction of the hydrostatic equation
-* Concepts of pressure and temperature variations with respect to altitude 
+* Concepts on pressure and temperature variation with respect to altitude 
