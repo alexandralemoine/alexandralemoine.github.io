@@ -2,7 +2,7 @@
 title: "Substitute Lecturer: Introduction to Aerospace Systems"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2019-fall-teaching-1
 venue: "University of Maryland, Department of Aerospace Engineering"
 date: 2019-08-01
 location: "College Park, MD"
